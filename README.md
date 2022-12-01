@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Loai Esam</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **Django, React, AWS**
+- 🌱 I’m currently learning **Django, React**
 
 - 📫 How to reach me **loaiesam1234@gmail.com**
 
