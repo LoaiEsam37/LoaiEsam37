@@ -21,7 +21,5 @@
 - Automation **Web Application Pentesting** with Python and Golang
 
 - Strong Knowledge in **Linux CLI**
-
-<br><hr>
-
+<hr>
 <h5 align="center">I have started my Carrer since 2022 when i was 14 years old</h5>
