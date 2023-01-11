@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm L😁ai Esam</h1>
-<h3 align="center">Full Stack Devoleper</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 - 📫 How to reach me **loaiesam1234@gmail.com**
 
