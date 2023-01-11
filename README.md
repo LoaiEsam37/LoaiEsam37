@@ -37,7 +37,6 @@
   - **XSS** => Cross Site Scripting
   - **LFI** => Local File Inclusion
 
-  # hello
 - Strong Knowledge in **Linux CLI**
   - Managing User Accounts 
   - Secure Linux File Access
