@@ -32,9 +32,10 @@
 <a href="https://www.nginx.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
 <a href="https://www.mysql.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://graphql.org/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
+<a href="https://graphql.org/" target="_blank"> 
 <a href="https://firebase.google.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-</div>
+<img  src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>
+</div> 
 
 <!-- </td><td valign="top" width="33%">
 
