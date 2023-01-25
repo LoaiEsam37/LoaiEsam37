@@ -48,7 +48,6 @@
 <a href="https://www.hostinger.com/" target="_blank"><img style="margin: 10px" src="https://www.hostinger.com/logo-400x400.png" alt="hostinger" height="50" /></a>
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a> 
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a> 
 <a href="https://www.gitkraken.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/2437911/62945705-2e111300-bdd7-11e9-8f82-cffa978d1071.png" alt="gitKraken" height="50" /></a> 
 <a href="https://helmetjs.github.io/" target="_blank"><img style="margin: 10px" src="https://helmetjs.github.io/resources/logo.svg" alt="helmet.js" height="50" /></a> 
 <a href="https://portswigger.net/" target="_blank"><img style="margin: 10px" src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="Burpsuite" height="50" /></a>
