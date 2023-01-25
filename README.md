@@ -24,7 +24,6 @@
 <a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>  
 <a href="https://vitejs.dev/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/V/vite-logo-BFD4283991-seeklogo.com.png" alt="Vite" height="50" /></a> 
 </div>
-
 </td><td valign="top" width="33%">
 
 ### Backend
@@ -47,6 +46,7 @@
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
 <a href="https://gulpjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gulp-plain.svg" alt="gulp.js" height="50" /></a>  
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a> 
+<a href="https://www.gitkraken.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/2437911/62945705-2e111300-bdd7-11e9-8f82-cffa978d1071.png" alt="gitKraken" height="50" /></a> 
 </div>
 
 </table>
