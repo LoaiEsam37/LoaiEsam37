@@ -19,12 +19,12 @@
 <a href="https://www.typescriptlang.org/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://redux.js.org/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>   
+<a href="https://react-query-v3.tanstack.com/" target="_blank" rel="noreferrer"> <img src="https://react-query-v3.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" alt="react query"height="50"/> </a>
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 <a href="https://www.astro.build/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/astro.svg" alt="Astro" height="50" /></a>  
 <a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>  
 <a href="https://vitejs.dev/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/V/vite-logo-BFD4283991-seeklogo.com.png" alt="Vite" height="50" /></a> 
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel"height="50"/> </a>
-<a href="https://gulpjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/gulp-plain.svg" alt="gulp.js" height="50" /></a>  
+<a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel"height="50"/> </a>  
 </div>
 </td><td valign="top" width="50%">
 
@@ -53,6 +53,7 @@
 <a href="https://helmetjs.github.io/" target="_blank"><img style="margin: 10px" src="https://helmetjs.github.io/resources/logo.svg" alt="helmet.js" height="50" /></a> 
 <a href="https://portswigger.net/" target="_blank"><img style="margin: 10px" src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="Burpsuite" height="50" /></a>
 <a href="https://www.cloudflare.com/" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/5969/5969044.png" alt="Cloudflare" height="50" /></a>
+<a href="https://sequelize.org/" target="_blank"><img style="margin: 10px" src="https://sequelize.org/api/v6/image/brand_logo.png" alt="sequelize.js" height="50" /></a>
 </div>
 
 </table>
