@@ -33,7 +33,6 @@
 <div align="center">  
 <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" height="50"/> </a>  
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"  height="50"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"  height="50"/> </a>
 <a href="https://nodejs.org/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 <a href="https://www.nginx.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
@@ -48,7 +47,6 @@
 <a href="https://www.hostinger.com/" target="_blank"><img style="margin: 10px" src="https://www.hostinger.com/logo-400x400.png" alt="hostinger" height="50" /></a>
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a> 
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-<a href="https://www.gitkraken.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/2437911/62945705-2e111300-bdd7-11e9-8f82-cffa978d1071.png" alt="gitKraken" height="50" /></a> 
 <a href="https://helmetjs.github.io/" target="_blank"><img style="margin: 10px" src="https://helmetjs.github.io/resources/logo.svg" alt="helmet.js" height="50" /></a> 
 <a href="https://portswigger.net/" target="_blank"><img style="margin: 10px" src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="Burpsuite" height="50" /></a>
 <a href="https://www.cloudflare.com/" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/5969/5969044.png" alt="Cloudflare" height="50" /></a>
