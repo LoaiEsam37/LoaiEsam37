@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm L😁ai Esam</h1>
 <h3 align="center">Full Stack Developer</h3>
 
--   📫 How to reach me **loaiesam1234@gmail.com**
+-   [📫 How to reach me](https://www.linkedin.com/in/loai-esam-109971215/)
 
 ## My Skill Set
 
