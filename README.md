@@ -33,7 +33,7 @@
 <div align="center">  
 <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" height="50"/> </a>  
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"  height="50"/> </a>
-<a href="https://nodejs.org/" target="_blank"><img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Deno.svg/1200px-Deno.svg.png" alt="Node.js" height="50" /></a>  
+<a href="https://deno.land/" target="_blank"><img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Deno_2021.svg/1024px-Deno_2021.svg.png" alt="Node.js" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 <a href="https://www.nginx.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
 <a href="https://graphql.org/" target="_blank"> 
