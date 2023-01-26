@@ -50,7 +50,6 @@
 <a href="https://helmetjs.github.io/" target="_blank"><img style="margin: 10px" src="https://helmetjs.github.io/resources/logo.svg" alt="helmet.js" height="50" /></a> 
 <a href="https://portswigger.net/" target="_blank"><img style="margin: 10px" src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="Burpsuite" height="50" /></a>
 <a href="https://www.cloudflare.com/" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/5969/5969044.png" alt="Cloudflare" height="50" /></a>
-<a href="https://sequelize.org/" target="_blank"><img style="margin: 10px" src="https://sequelize.org/api/v6/image/brand_logo.png" alt="sequelize.js" height="50" /></a>
 </div>
 
 </table>
