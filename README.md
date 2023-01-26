@@ -34,7 +34,6 @@
 <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" height="50"/> </a>  
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"  height="50"/> </a>
 <a href="https://deno.land/" target="_blank"><img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Deno_2021.svg/1024px-Deno_2021.svg.png" alt="deno.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img  src="https://user-images.githubusercontent.com/11978772/40430986-a0eb7b92-5e63-11e8-80eb-43fe07f664a6.png" alt="Express.js" height="50" /></a>  
 <a href="https://www.nginx.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
 <a href="https://graphql.org/" target="_blank"> 
 <img  src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>
@@ -47,6 +46,7 @@
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a> 
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
 <a href="https://www.cloudflare.com/" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/5969/5969044.png" alt="Cloudflare" height="50" /></a>
+<a href="https://expressjs.com/" target="_blank"><img  src="https://user-images.githubusercontent.com/11978772/40430986-a0eb7b92-5e63-11e8-80eb-43fe07f664a6.png" alt="Express.js" height="50" /></a>  
 </div>
 
 </table>
