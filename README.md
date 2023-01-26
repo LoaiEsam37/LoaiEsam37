@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm L😁ai Esam</h1>
 <h3 align="center">Full Stack Developer</h3>
 
--   [📫 How to reach me](https://www.linkedin.com/in/loai-esam-109971215/)
 
 ## My Skill Set
 
@@ -59,6 +58,7 @@
     -   Secure Linux File Access
     -   Managing Files
     -   Writing Bash Script
+
     <hr>
     <h5 align="center">I have started my Career since 2022 when i was 14 years old</h5>
     <h6 align="center">i haven`t finished this track yet</h6>
