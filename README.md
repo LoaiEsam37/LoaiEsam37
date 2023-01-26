@@ -10,7 +10,7 @@
 ### Frontend
 
 <div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img  src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" alt="React" height="200" /></a><br/>
+<a href="https://reactjs.org/" target="_blank"><img  src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" alt="React" height="200" /></a><br/><br/>
 <a href="https://www.javascript.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="70" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="70" /></a>  
 <a href="https://redux.js.org/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="70" /></a>   
@@ -29,7 +29,7 @@
 ### Backend
 
 <div align="center">  
-<a href="https://deno.land/" target="_blank"><img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Deno_2021.svg/1024px-Deno_2021.svg.png" alt="deno.js" height="200" /></a><br/>
+<a href="https://deno.land/" target="_blank"><img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Deno_2021.svg/1024px-Deno_2021.svg.png" alt="deno.js" height="200" /></a><br/><br/>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"  height="70"/> </a>
 <a href="https://graphql.org/" target="_blank"> 
 <img  src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="70" /></a>
