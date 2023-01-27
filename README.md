@@ -44,7 +44,7 @@
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="70" /></a> 
 <a href="https://expressjs.com/" target="_blank"><img  src="https://user-images.githubusercontent.com/11978772/40430986-a0eb7b92-5e63-11e8-80eb-43fe07f664a6.png" alt="Express.js" height="70" /></a>  
 </div>
-
+</td></tr>
 </table>
 <br />
 
@@ -60,4 +60,4 @@
     -   Writing Bash Script
 
     <hr>
-    <h5 align="center">I have started my Career since 2022 when i was 14 years old</h5>
+    <h5 align="center">I have started my Career since 2022 when i was 14 years old.</h5>
