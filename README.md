@@ -61,4 +61,3 @@
 
     <hr>
     <h5 align="center">I have started my Career since 2022 when i was 14 years old</h5>
-    <h6 align="center">i haven`t finished this track yet</h6>
