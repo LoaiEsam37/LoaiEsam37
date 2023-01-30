@@ -28,6 +28,7 @@
 
 <div align="center">  
 <a href="https://deno.land/" target="_blank"><img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Deno_2021.svg/1024px-Deno_2021.svg.png" alt="deno.js" height="200" /></a><br/><br/>
+<a href="https://nodejs.org/" target="_blank"><img  src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="node.js" height="70" /></a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"  height="70"/> </a>
 <a href="https://graphql.org/" target="_blank"> 
 <img  src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="70" /></a>
