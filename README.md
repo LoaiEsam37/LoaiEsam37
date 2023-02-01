@@ -32,15 +32,15 @@
 <a href="https://graphql.org/" target="_blank"> 
 <img  src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="70" /></a>
 <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" height="70"/> </a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="70" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="70"/></a>  
 <a href="https://www.nginx.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="70" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="70" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="70" /></a>  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="70" ><a> 
-<a href="https://www.cloudflare.com/" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/5969/5969044.png" alt="Cloudflare" height="70" /></a>
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="70" ><a> 
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="70" /></a>  
-<a href="https://golang.google.cn/" target="_blank"><img  src="https://cdn.worldvectorlogo.com/logos/gopher.svg" alt="Golang" height="70" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="70"/></a>  
+<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="70"/><a> 
+<a href="https://www.cloudflare.com/" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/5969/5969044.png" alt="Cloudflare" height="70"/></a>
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="70"><a> 
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="70"/></a>  
+<a href="https://golang.google.cn/" target="_blank"><img  src="https://cdn.worldvectorlogo.com/logos/gopher.svg" alt="Golang" height="70"/></a>
 </div>
 </td></tr>
 </table>
