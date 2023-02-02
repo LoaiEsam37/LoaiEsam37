@@ -14,12 +14,10 @@
 <a href="https://redux.js.org/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="70" /></a>   
 <a href="https://react-query-v3.tanstack.com/" target="_blank" rel="noreferrer"> <img src="https://react-query-v3.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" alt="react query"height="70"/> </a>
 <a href="https://vitejs.dev/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/V/vite-logo-BFD4283991-seeklogo.com.png" alt="Vite" height="70" /></a> 
-<!-- <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="70" /></a>   -->
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="70" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="70" /></a>   
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="70" /></a>  
 <a href="https://sass-lang.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="70" /></a>  
-<!-- <a href="https://www.astro.build/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/astro.svg" alt="Astro" height="70" /></a>   -->
 </div>
 </td><td valign="top" width="50%">
 
@@ -29,9 +27,7 @@
 <a href="https://deno.land/" target="_blank"><img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Deno_2021.svg/1024px-Deno_2021.svg.png" alt="deno.js" height="200" /></a><br/><br/>
 <a href="https://nodejs.org/" target="_blank"><img  src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="node.js" height="70" /></a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"  height="70"/> </a>
-<a href="https://graphql.org/" target="_blank"> 
-<img  src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="70" /></a>
-<a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" height="70"/> </a>  
+<a href="https://pocketbase.io" target="_blank" rel="noreferrer"> <img src="https://pocketbase.io/images/logo.svg" alt="pocketbase" height="70"/> </a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="70"/></a>  
 <a href="https://www.nginx.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="70" /></a>  
 <a href="https://www.cloudflare.com/" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/5969/5969044.png" alt="Cloudflare" height="70"/></a>
