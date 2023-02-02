@@ -29,13 +29,11 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"  height="70"/> </a>
 <a href="https://pocketbase.io" target="_blank" rel="noreferrer"> <img src="https://pocketbase.io/images/logo.svg" alt="pocketbase" height="70"/> </a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="70"/></a>  
-<a href="https://www.cloudflare.com/" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/5969/5969044.png" alt="Cloudflare" height="70"/></a>
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="70"/></a>  
 <a href="https://golang.google.cn/" target="_blank"><img  src="https://cdn.worldvectorlogo.com/logos/gopher.svg" alt="Golang" height="70"/></a>
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="70"/></a>  
 <a href="https://www.mysql.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="70" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="70" /></a>  
 <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="70"/><a> 
-<a href="https://fauna.com/" target="_blank"><img  src="https://fauna.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fpo4qc9xpmpuh%2F7itYmeRxmVGIXwwGWHrQU3%2F42f3e7fa7d39fab5b6222f6199f0203c%2FFauna_Logo.svg&w=256&q=75" alt="faunaDB" height="60" /></a>
 </div>
 </td></tr>
 </table>
