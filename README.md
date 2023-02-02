@@ -20,7 +20,8 @@
 <a href="https://sass-lang.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="70" /></a>  
 <a href="https://postcss.org/" target="_blank"><img style="margin: 10px" src="https://camo.githubusercontent.com/a2ebaaedf9af41416a2717b3a28f405b39535397f4463c5c5119146c84c240f9/68747470733a2f2f706f73746373732e6f72672f6c6f676f2e737667" alt="postcss" height="70"/><a> 
 </div>
-</td><td valign="top" width="50%">
+
+</td></td><td valign="top" width="50%">
 
 ### Backend
 
