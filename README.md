@@ -31,6 +31,7 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"  height="70"/> </a>
 <a href="https://supabase.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" alt="supabase" height="70"/> </a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="70"/></a>  
+<a href="https://www.cloudflare.com/en-gb/" target="_blank"><img  src="https://dwglogo.com/wp-content/uploads/2020/05/Cloudflare_icon_transparent-1536x996.png" alt="cloudflare" height="70" /></a>
 <a href="https://golang.google.cn/" target="_blank"><img  src="https://cdn.worldvectorlogo.com/logos/gopher.svg" alt="Golang" height="70"/></a>
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="70"/></a>  
 <a href="https://www.mysql.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="70" /></a>  
