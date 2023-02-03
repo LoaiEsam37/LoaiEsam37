@@ -3,7 +3,7 @@
 
 ## My Skill Set
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="33%">
 
 ### Frontend
 
@@ -21,7 +21,7 @@
 <a href="https://postcss.org/" target="_blank"><img style="margin: 10px" src="https://camo.githubusercontent.com/a2ebaaedf9af41416a2717b3a28f405b39535397f4463c5c5119146c84c240f9/68747470733a2f2f706f73746373732e6f72672f6c6f676f2e737667" alt="postcss" height="70"/><a> 
 </div>
 
-</td></td><td valign="top" width="50%">
+</td><td valign="top" width="33%">
 
 ### Backend
 
@@ -35,13 +35,24 @@
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="70"/></a>  
 <a href="https://www.mysql.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="70" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="70" /></a>  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="70"/><a> 
-<a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" /></a>  
-<a href="https://docs.github.com/en/actions" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/30958501/68524412-f2201800-0309-11ea-9cb0-ad7f8f760218.png" alt="github actions" height="70" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1599829788369113089/FrdYoQ1o_400x400.jpg" alt="AWS" height="70" /></a>  
-<a href="https://docs.amplify.aws/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1114309924551417856/FKA4cm2x_400x400.png" alt="amplify" height="70" /></a>  
+<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="70"/><a>
+
 </div>
-</td></tr>
+
+</td><td valign="top" width="33%">
+
+### DevOps
+
+<div align="center">
+
+<a href="https://docs.github.com/en/actions" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/30958501/68524412-f2201800-0309-11ea-9cb0-ad7f8f760218.png" alt="github actions" height="200" /></a>  
+<a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" /></a>  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1599829788369113089/FrdYoQ1o_400x400.jpg" alt="AWS" height="70" /></a>  
+<a href="https://docs.amplify.aws/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1114309924551417856/FKA4cm2x_400x400.png" alt="amplify" height="70" /></a>
+
+</div>
+</td>
+</tr>
 </table>
 <br />
 
