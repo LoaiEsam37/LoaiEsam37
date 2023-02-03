@@ -62,12 +62,13 @@
 
 <br />
 
--   Strong Knowledge in **Linux CLI**
+-   Strong Knowledge in **Linux**
 
+    -   File Systems: NTFS, exFAT, FAT32, ext4 & More
+    -   Directory structure
     -   Managing User Accounts
     -   Secure Linux File Access
     -   Managing Files
-    -   File Systems: NTFS, exFAT, FAT32, ext4 & More
     -   Writing Bash Script
 
 <br />
