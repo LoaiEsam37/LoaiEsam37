@@ -8,7 +8,7 @@
 ### Frontend
 
 <div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img  src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" alt="React" height="200" /></a><br/><br/>
+<a href="https://reactjs.org/" target="_blank"><img  src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" alt="React" height="200" /></a><br/><br/><br/>
 <a href="https://www.javascript.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="70" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="70" /></a>  
 <a href="https://redux.js.org/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="70" /></a>   
@@ -26,7 +26,7 @@
 ### Backend
 
 <div align="center">  
-<a href="https://deno.land/" target="_blank"><img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Deno_2021.svg/1024px-Deno_2021.svg.png" alt="deno.js" height="200" /></a><br/>
+<a href="https://deno.land/" target="_blank"><img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Deno_2021.svg/1024px-Deno_2021.svg.png" alt="deno.js" height="200" /></a><br/><br/><br/>
 <a href="https://nodejs.org/" target="_blank"><img  src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="node.js" height="67" /></a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"  height="70"/> </a>
 <a href="https://www.cloudflare.com/en-gb/" target="_blank"><img  src="https://dwglogo.com/wp-content/uploads/2020/05/Cloudflare_icon_transparent-1536x996.png" alt="cloudflare" height="70" /></a>
@@ -41,7 +41,7 @@
 ### DevOps
 
 <div align="center">
-<a href="https://docs.github.com/en/actions" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/30958501/68524412-f2201800-0309-11ea-9cb0-ad7f8f760218.png" alt="github actions" height="200" /></a></br>
+<a href="https://docs.github.com/en/actions" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/30958501/68524412-f2201800-0309-11ea-9cb0-ad7f8f760218.png" alt="github actions" height="200" /></a><br/><br/>
 <a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="70" /></a>  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1599829788369113089/FrdYoQ1o_400x400.jpg" alt="AWS" height="70" /></a>  
 <a href="https://docs.amplify.aws/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1114309924551417856/FKA4cm2x_400x400.png" alt="amplify" height="70" /></a>
