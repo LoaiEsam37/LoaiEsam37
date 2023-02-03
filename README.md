@@ -41,7 +41,6 @@
 ### DevOps
 
 <div align="center">
-
 <a href="https://docs.github.com/en/actions" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/30958501/68524412-f2201800-0309-11ea-9cb0-ad7f8f760218.png" alt="github actions" height="200" /></a></br>
 <a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="70" /></a>  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1599829788369113089/FrdYoQ1o_400x400.jpg" alt="AWS" height="70" /></a>  
@@ -49,13 +48,10 @@
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="70"/></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="70"/></a>
 <a href="https://golang.google.cn/" target="_blank"><img  src="https://cdn.worldvectorlogo.com/logos/gopher.svg" alt="Golang" height="70"/></a>
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>
-
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="70" /></a>  
+<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="70" /></a>
 </div>
-</td>
-</tr>
-</table>
+</td></tr></table>
 
 <br />
 
