@@ -73,12 +73,20 @@
 
 <br />
 
--   Algorithms
+-   **Algorithms**
 
     -   Memoization
     -   Binary Search
     -   Bubble sorting
     -   Recursion
+
+<br />
+
+-   **Network**
+
+    -   ftp, ssh, http, https ...etc
+    -   TCP/IP
+    -   Data Center
 
 <br />
     <hr>
