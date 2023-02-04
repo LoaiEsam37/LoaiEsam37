@@ -86,7 +86,6 @@
 
     -   ftp, ssh, http, https ...etc
     -   TCP/IP
-    -   Data Center
 
 <br />
     <hr>
