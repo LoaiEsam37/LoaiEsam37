@@ -18,6 +18,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="70" /></a>   
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="70" /></a>  
 <a href="https://sass-lang.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="70" /></a>  
+<a href="https://eslint.org/" target="_blank"><img  src="https://cdn.iconscout.com/icon/free/png-256/eslint-1-286048.png" alt="eslint" height="70" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
