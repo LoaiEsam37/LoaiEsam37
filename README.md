@@ -11,6 +11,7 @@
 <a href="https://reactjs.org/" target="_blank"><img  src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" alt="React" height="200" /></a><br/><br/><br/>
 <a href="https://www.javascript.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="70" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="70" /></a>  
+<a href="https://strapi.io/" target="_blank"><img style="border-radius: 50%" src="https://scontent.faly3-1.fna.fbcdn.net/v/t1.6435-9/98603364_1772757682864381_6889229475242835968_n.png?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=XnZtD5_ZupAAX_P2Z91&_nc_ht=scontent.faly3-1.fna&oh=00_AfC50VdLvz3iypnyuDLCHeghbJ5fAG1DTKPgw-mbaEog6g&oe=6408A436" alt="strapi" height="70"/><a>
 <a href="https://redux.js.org/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="70" /></a>   
 <a href="https://react-query-v3.tanstack.com/" target="_blank" rel="noreferrer"> <img src="https://react-query-v3.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" alt="react query"height="70"/> </a>
 <a href="https://vitejs.dev/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/V/vite-logo-BFD4283991-seeklogo.com.png" alt="Vite" height="70" /></a> 
@@ -33,7 +34,6 @@
 <a href="https://www.mysql.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="70" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="70" /></a>  
 <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="70"/><a>
-<a href="https://strapi.io/" target="_blank"><img style="border-radius: 50%" src="https://scontent.faly3-1.fna.fbcdn.net/v/t1.6435-9/98603364_1772757682864381_6889229475242835968_n.png?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=XnZtD5_ZupAAX_P2Z91&_nc_ht=scontent.faly3-1.fna&oh=00_AfC50VdLvz3iypnyuDLCHeghbJ5fAG1DTKPgw-mbaEog6g&oe=6408A436" alt="strapi" height="70"/><a>
 </div>
 
 </td><td valign="top" width="33%">
