@@ -52,7 +52,7 @@
 
 </td></tr></table>
 
-<h2>Social Media</h2>
+<h2>Educational Community</h2>
 
 <p>
 <a href="https://cssbattle.dev/player/loaiesam37"><img src="https://pbs.twimg.com/profile_images/1114446136302084096/BIu19jPP_400x400.png" alt="css battles" height="70"'></a>
