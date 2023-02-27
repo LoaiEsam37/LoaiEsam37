@@ -1,6 +1,25 @@
 <h1 align="center">Hi 👋, I'm L😁ai Esam</h1>
 <h3 align="center">Full Stack Developer</h3>
 
+<!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/211714560-d889e973-e44e-45bb-a4f1-6901c269837b.svg" width="360px"/>
+
+<br />
+
+-   🔭 I’m currently studying on **becoming a full stack developer**.
+
+-   🌱 I’m currently learning **React and Node.js**.
+
+-   📫 How to reach me: **loaiesam1234@gmail.com**.
+
+-   💬 Ask me about **HTML and CSS**.
+
+-   🤝 I’m looking for help in learning about **Accessible Websites**.
+
+-   👯 I’m looking to collaborate on **Developing new open-source projects**.
+
+<br />
+
 ## My Skill Set
 
 <table><tr><td valign="top" width="50%">
@@ -40,6 +59,10 @@
 <a href="https://www.codewars.com/users/LoaiEsam37"><img src="https://docs.codewars.com/logo.svg" alt="codewars" height="70"></a>
 <a href="https://www.frontendmentor.io/profile/LoaiEsam37"><img src="https://avatars.githubusercontent.com/u/83502526?v=4" alt="frontend mentor" height="70"></a>
 </p>
+
+<br />
+
+<br>
 
 <br />
     <hr>
