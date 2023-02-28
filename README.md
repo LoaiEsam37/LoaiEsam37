@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div> 
+</div>
 
 <h1 align="center">Hi 👋, I'm L😁ai Esam</h1>
 <h3 align="center">Full Stack Developer</h3>
@@ -55,14 +55,10 @@
 </div>
 
 </td></tr></table>
-
-<h2>Educational Community</h2>
-
-<p>
-<a href="https://cssbattle.dev/player/loaiesam37"><img src="https://pbs.twimg.com/profile_images/1114446136302084096/BIu19jPP_400x400.png" alt="css battles" height="70"'></a>
-<a href="https://www.codewars.com/users/LoaiEsam37"><img src="https://docs.codewars.com/logo.svg" alt="codewars" height="70"></a>
-<a href="https://www.frontendmentor.io/profile/LoaiEsam37"><img src="https://avatars.githubusercontent.com/u/83502526?v=4" alt="frontend mentor" height="70"></a>
-</p>
+![]('Hand coding.gif')
+-   [cssbattle](https://cssbattle.dev/player/loaiesam37)
+-   [codewars](https://www.codewars.com/users/LoaiEsam37)
+-   [frontendmentor](https://www.frontendmentor.io/profile/LoaiEsam37)
 
 <br />
 
