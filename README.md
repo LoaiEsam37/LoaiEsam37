@@ -56,10 +56,6 @@
 
 </td></tr></table>
 
--   [cssbattle](https://cssbattle.dev/player/loaiesam37)
--   [codewars](https://www.codewars.com/users/LoaiEsam37)
--   [frontendmentor](https://www.frontendmentor.io/profile/LoaiEsam37)
-
 <br />
 
 <br>
