@@ -48,7 +48,6 @@
 
 <div align="center">  
 <a href="https://nodejs.org/" target="_blank"><img  src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="node.js" height="200" /></a><br/><br/><br/>
-<a href="https://strapi.io/" target="_blank"><img src="https://scontent.faly3-1.fna.fbcdn.net/v/t1.6435-9/98603364_1772757682864381_6889229475242835968_n.png?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=XnZtD5_ZupAAX_P2Z91&_nc_ht=scontent.faly3-1.fna&oh=00_AfC50VdLvz3iypnyuDLCHeghbJ5fAG1DTKPgw-mbaEog6g&oe=6408A436" alt="strapi" height="70"/><a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"  height="70"/> </a>
 <a href="https://www.mysql.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="70" /></a>   
 <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="70"/><a>
