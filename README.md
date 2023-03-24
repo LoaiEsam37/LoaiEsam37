@@ -6,21 +6,22 @@
 <h3 align="center">Full Stack Developer</h3>
 
 <!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
+
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/211714560-d889e973-e44e-45bb-a4f1-6901c269837b.svg" width="360px"/>
 
 <br />
 
--   🔭 I’m currently studying on **becoming a full stack developer**.
+- 🔭 I’m currently studying on **becoming a full stack developer**.
 
--   🌱 I’m currently learning **React and Node.js**.
+- 🌱 I’m currently learning **React and Node.js**.
 
--   📫 How to reach me: **loaiesam1234@gmail.com**.
+- 📫 How to reach me: **loaiesam1234@gmail.com**.
 
--   💬 Ask me about **HTML and CSS**.
+- 💬 Ask me about **HTML and CSS**.
 
--   🤝 I’m looking for help in learning about **Accessible Websites**.
+- 🤝 I’m looking for help in learning about **Accessible Websites**.
 
--   👯 I’m looking to collaborate on **Developing new open-source projects**.
+- 👯 I’m looking to collaborate on **Developing new open-source projects**.
 
 <br />
 
@@ -39,7 +40,6 @@
 <a href="https://www.w3schools.com/css/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="70" /></a>   
 <a href="https://sass-lang.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="70" /></a>  
 <a href="https://eslint.org/" target="_blank"><img  src="https://cdn.iconscout.com/icon/free/png-256/eslint-1-286048.png" alt="eslint" height="70" /></a> 
-<a href="https://react-query-v3.tanstack.com/" target="_blank"><img  src="https://react-query-v3.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" alt="reactquery" height="70" /></a> 
 </div>
 
 </td><td valign="top" width="50%">
