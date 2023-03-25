@@ -27,8 +27,6 @@
 
 ## My Skill Set
 
-### Frontend
-
 <div align="center">  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="200" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img  src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" alt="React" height="200" /></a><br/><br/><br/>
