@@ -43,7 +43,6 @@
 <a href="https://www.mysql.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="70" /></a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" height="40"/> </a>
 <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="70" /></a>  
-<a href="https://pocketbase.io/" target="_blank"><img style="margin: 10px" src="https://styles.redditmedia.com/t5_6w8h95/styles/communityIcon_tchrb9f5jii91.png?width=256&s=bb7fc27041f817632985cd46d427d761532f4d20" alt="Pocketbase" height="70"/><a>
 <a href="https://strapi.io/" target="_blank"><img style="margin: 10px" src="https://super-static-assets.s3.amazonaws.com/e7c0f16c-8bd3-4c76-8075-4c86f986e1b2/uploads/favicon/9c68ae10-0a8a-4e3f-9084-3625b19df9cb.png" alt="Strapi" height="70"/><a>
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="70" /></a>  
 <a href="https://auth0.com/" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/auth0-icon-458x512-8spyi0ve.png" alt="Auth0" height="70"/><a>
