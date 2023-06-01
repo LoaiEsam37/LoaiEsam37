@@ -13,7 +13,7 @@
 
 -   🔭 I’m currently studying on **becoming a full stack developer**.
 
--   🌱 I’m currently learning **React and django**.
+-   🌱 I’m currently learning **React and Django**.
 
 -   📫 How to reach me: **loaiesam1234@gmail.com**.
 
