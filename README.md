@@ -13,7 +13,7 @@
 
 -   🔭 I’m currently studying on **becoming a full stack developer**.
 
--   🌱 I’m currently learning **React and Node.js**.
+-   🌱 I’m currently learning **React and django**.
 
 -   📫 How to reach me: **loaiesam1234@gmail.com**.
 
@@ -43,7 +43,7 @@
 <a href="https://eslint.org/" target="_blank"><img  src="https://cdn.iconscout.com/icon/free/png-256/eslint-1-286048.png" alt="eslint" height="70" /></a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"  height="70"/> </a>
 <a href="https://www.mysql.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="70" /></a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" height="40"/> </a>
+<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
 </div>
 
 <br />
