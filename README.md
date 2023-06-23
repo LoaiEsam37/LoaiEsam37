@@ -11,13 +11,13 @@
 
 <br />
 
--   🔭 I’m currently studying on **becoming a full stack developer**.
+-   🔭 I’m currently studying on **becoming a reverse enginnering**.
 
--   🌱 I’m currently learning **React and Django**.
+-   🌱 I’m currently learning **Assembly and Cryptography**
 
 -   📫 How to reach me: **loaiesam1234@gmail.com**.
 
--   💬 Ask me about **HTML and CSS**.
+-   💬 Ask me about **Dynamic Programming and Optimization**.
 
 -   🤝 I’m looking for help in learning about **Accessible Websites**.
 
