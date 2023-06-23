@@ -49,8 +49,8 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"  height="70"/> </a>
 <a href="https://www.mysql.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="70" /></a>
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="70" /></a>
-<a href="https://railway.app/brand/logo-light.png" target="_blank"><img style="margin: 10px" src="https://railway.app/brand/logo-light.png" alt="railway" height="70" /></a>
-<a href="https://vercel.com/dashboard" target="_blank"><img style="margin: 10px" src="https://assets.vercel.com/image/upload/front/favicon/vercel/72x72.png" alt="vercel" height="70" /></a>
+<a href="https://railway.app" target="_blank"><img style="margin: 10px" src="https://railway.app/brand/logo-light.png" alt="railway" height="70" /></a>
+<a href="https://vercel.com" target="_blank"><img style="margin: 10px" src="https://assets.vercel.com/image/upload/front/favicon/vercel/72x72.png" alt="vercel" height="70" /></a>
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="70" /></a>
 </div>
 
