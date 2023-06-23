@@ -42,7 +42,8 @@
 <a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="70" /></a> 
 <a href="https://vitejs.dev/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/65625612?s=280&v=4" alt="vite" height="70" /></a>
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="70" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="70" /></a>   
+<a href="https://www.w3schools.com/css/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="70" /></a>
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="70" /></a>  
 <a href="https://sass-lang.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="70" /></a>  
 <a href="https://eslint.org/" target="_blank"><img  src="https://cdn.iconscout.com/icon/free/png-256/eslint-1-286048.png" alt="eslint" height="70" /></a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"  height="70"/> </a>
@@ -50,6 +51,7 @@
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="70" /></a>
 <a href="https://railway.app/brand/logo-light.png" target="_blank"><img style="margin: 10px" src="https://railway.app/brand/logo-light.png" alt="railway" height="70" /></a>
 <a href="https://vercel.com/dashboard" target="_blank"><img style="margin: 10px" src="https://assets.vercel.com/image/upload/front/favicon/vercel/72x72.png" alt="vercel" height="70" /></a>
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="70" /></a>
 </div>
 
 <br />
