@@ -11,7 +11,7 @@
 
 <br />
 
--   🔭 I’m currently studying on **becoming a reverse enginnering**.
+-   🔭 I’m currently studying on **becoming a reverse enginner**.
 
 -   🌱 I’m currently learning **Assembly and Cryptography**
 
