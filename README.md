@@ -11,9 +11,9 @@
 
 <br />
 
--   🔭 I’m currently studying on **becoming a Reverse Enginner**.
+-   🔭 I’m currently studying on **becoming a Embedded Systems Engineer**.
 
--   🌱 I’m currently learning **Assembly and Cryptography**
+-   🌱 I’m currently learning **Assembly and C**
 
 -   📫 How to reach me: **loaiesam1234@gmail.com**.
 
