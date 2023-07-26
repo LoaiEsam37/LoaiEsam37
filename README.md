@@ -13,7 +13,7 @@
 
 -   🔭 I’m currently studying on **becoming a Embedded Systems Engineer**.
 
--   🌱 I’m currently learning **Assembly and C**
+-   🌱 I’m currently learning **Assembly and C++**
 
 -   📫 How to reach me: **loaiesam1234@gmail.com**.
 
