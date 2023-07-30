@@ -11,15 +11,13 @@
 
 <br />
 
--   🔭 I’m currently studying on **becoming a Embedded Systems Engineer**.
+-   🔭 I’m currently studying on **becoming a mechatronics Engineer**.
 
--   🌱 I’m currently learning **Assembly and C++**
+-   🌱 I’m currently learning **Pytorch and C++**
 
 -   📫 How to reach me: **loaiesam1234@gmail.com**.
 
 -   💬 Ask me about **Dynamic Programming and Optimization**.
-
--   🤝 I’m looking for help in learning about **Accessible Websites**.
 
 -   👯 I’m looking to collaborate on **Developing new open-source projects**.
 
