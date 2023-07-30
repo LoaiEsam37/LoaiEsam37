@@ -22,9 +22,11 @@
 -   👯 I’m looking to collaborate on **Developing new open-source projects**.
 
 <br />
+<br />
+<br />
+<br />
 
 ## My Skill Set
-
 <div align="center">  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="70" /></a>  
 <a href="https://reactnative.dev/" target="_blank"><img  src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" alt="React" height="70" /></a>
