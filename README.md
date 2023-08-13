@@ -11,7 +11,7 @@
 
 -   🔭 I’m currently studying on **becoming a mechatronics Engineer**.
 
--   🌱 I’m currently learning **Pytorch and C++**
+-   🌱 I’m currently learning **Pytorch and Assembly**
 
 -   📫 How to reach me: **loaiesam1234@gmail.com**.
 
