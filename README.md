@@ -60,6 +60,8 @@
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="70" /></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" height="70"/> </a> 
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" alt="numpy" height="70" /></a>
+<a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://maximilian-schillinger.de/img/vim.png" alt="vim" height="70" /></a>
+
 </div>
 
 <br />
