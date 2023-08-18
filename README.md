@@ -1,7 +1,6 @@
 <div align="center">
 
 <h1 align="center">Hi 👋, I'm L😊ai Esam</h1>
-<h3 align="center">Full Stack | Mobile App Developer</h3>
 
 <!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
 
