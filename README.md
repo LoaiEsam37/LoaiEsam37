@@ -10,7 +10,7 @@
 
 -   🔭 I’m currently studying on **becoming a mechatronics Engineer**.
 
--   🌱 I’m currently learning **c and c++**
+-   🌱 I’m currently learning **C and C++**
 
 -   📫 How to reach me: **loaiesam1234@gmail.com**.
 
