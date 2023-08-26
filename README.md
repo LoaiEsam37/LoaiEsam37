@@ -8,9 +8,9 @@
 <div align="left">
 <br />
 
--   🔭 I’m currently studying on **becoming a mechatronics Engineer**.
+-   🔭 I’m currently studying on becoming a **Mechatronics Engineer**.
 
--   🌱 I’m currently learning **C and C++**
+-   🌱 I’m currently learning **C** and **C++**
 
 -   📫 How to reach me: **loaiesam1234@gmail.com**.
 
