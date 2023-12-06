@@ -73,6 +73,7 @@
 <a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://maximilian-schillinger.de/img/vim.png" alt="vim" height="70" /></a>
 <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="70" /></a>  
  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" height="70"/> </a>
+<a href="https://deno.land/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/deno.svg" alt="Deno" height="70" /></a>  
 </div>
 
 <br />
