@@ -32,6 +32,7 @@
 <a href="https://tanstack.com/query/v3/" target="_blank"><img style="margin: 10px" src="https://vectorwiki.com/images/Skj0l__react-query-icon.svg" alt="React Query" height="70" /></a>   
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="70"/> </a> 
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="70" /></a>  
+<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="70" /></a>  
 <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="70" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="70" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="70" /></a>  
@@ -39,7 +40,6 @@
 <a href="https://www.w3schools.com/css/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="70" /></a>
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="70" /></a>  
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="70" /></a> 
-<a href="https://sass-lang.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="70" /></a>  
 <a href="https://eslint.org/" target="_blank"><img  src="https://cdn.iconscout.com/icon/free/png-256/eslint-1-286048.png" alt="eslint" height="70" /></a> 
 <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="70" /></a>  
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"  height="70"/> </a>
