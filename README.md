@@ -8,10 +8,6 @@
 <div align="left">
 <br />
 
--   🔭 I’m currently studying on becoming a **Mechatronics Engineer**.
-
--   🌱 I’m currently learning **C** and **C++**
-
 -   📫 How to reach me: **loaiesam1234@gmail.com**.
 
 -   💬 Ask me about **Dynamic Programming and Optimization**.
