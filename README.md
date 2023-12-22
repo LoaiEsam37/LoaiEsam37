@@ -30,7 +30,6 @@
 <a href="https://reactnative.dev/" target="_blank"><img  src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" alt="React" height="70" /></a>
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="70" /></a>  
 <a href="https://tanstack.com/query/v3/" target="_blank"><img style="margin: 10px" src="https://vectorwiki.com/images/Skj0l__react-query-icon.svg" alt="React Query" height="70" /></a>   
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="70"/> </a> 
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="70" /></a>  
 <a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="70" /></a>  
 <a href="https://soliditylang.org/" target="_blank"><img style="margin: 10px" src="https://th.bing.com/th/id/OIP.QgWIaH1gqbznvvuDGPPnuAHaHa?rs=1&pid=ImgDetMain" alt="Solidity" height="70" /></a>  
@@ -41,7 +40,6 @@
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="70" /></a>  
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="70" /></a> 
 <a href="https://eslint.org/" target="_blank"><img  src="https://cdn.iconscout.com/icon/free/png-256/eslint-1-286048.png" alt="eslint" height="70" /></a> 
-<a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="70" /></a>  
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"  height="70"/> </a>
 <a href="https://www.mysql.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="70" /></a>
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="70" /></a>
