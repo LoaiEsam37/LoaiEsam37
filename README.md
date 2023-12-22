@@ -10,7 +10,7 @@
 
 -   📫 How to reach me: **loaiesam1234@gmail.com**.
 
--   💬 Ask me about **Dynamic Programming and Optimization**.
+-   💬 Ask me about **SOLID Principles and Optimization**.
 
 -   👯 I’m looking to collaborate on **Developing new open-source projects**.
     
