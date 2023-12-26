@@ -1,18 +1,4 @@
 <div align="center">
-
-<div align="left">
-<br />
-
--   📫 How to reach me: **loaiesam1234@gmail.com**.
-
--   💬 Ask me about **SOLID Principles and Optimization**.
-
--   👯 I’m looking to collaborate on **Developing new open-source projects**.
-    
-</div>
-
-<br />
-
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
@@ -48,3 +34,4 @@
 </div>
 
 </td></tr></table>  
+</div>
