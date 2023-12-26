@@ -1,7 +1,5 @@
 <div align="center">
 
-<h1 align="center">Hi 👋, I'm L😊ai Esam</h1>
-
 <div align="left">
 <br />
 
@@ -50,14 +48,3 @@
 </div>
 
 </td></tr></table>  
-
-
-</div>
-
-<br />
-
-<br>
-
-<br />
-    <hr>
-    <h5 align="center">I started my Career 5 years ago when i was 12 years old.</h5>
