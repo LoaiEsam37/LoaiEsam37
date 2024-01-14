@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Loai Esam</h1>
-<h3 align="center">A passionate Fullstack/Cross Platform Mobile App/Machine Learning/Blockchain developer, Professional Trader and Ethical Hacker from Egypt</h3>
+<h3 align="center">A passionate Fullstack/Cross Platform Mobile App/Machine Learning/Blockchain Developer, Professional Trader and Ethical Hacker from Egypt</h3>
 
 - 🌱 I’m currently learning **Everything**
 
