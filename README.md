@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Loai Esam</h1>
-<h3 align="center">A passionate Frontend Developer/Machine Learning Engineer from Egypt</h3>
-
-- 🌱 I’m currently learning **Everything**
+<h3 align="center">A passionate Machine-Learning Engineer from Egypt</h3>
 
 - 💬 Ask me about **Optimization**
 
