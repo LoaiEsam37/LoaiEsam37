@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Loai Esam</h1>
-<h3 align="center">A passionate Machine-Learning Engineer from Egypt</h3>
+<h3 align="center">A passionate Software Engineer from Egypt</h3>
 
 - 💬 Ask me about **Optimization**
 
